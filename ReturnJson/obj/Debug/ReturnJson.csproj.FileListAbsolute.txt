@@ -1,0 +1,13 @@
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\bin\Debug\ReturnJson.dll
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\bin\Debug\ReturnJson.pdb
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\obj\Debug\ReturnJson.csprojAssemblyReference.cache
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\obj\Debug\ReturnJson.csproj.CoreCompileInputs.cache
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\obj\Debug\ReturnJson.dll
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\obj\Debug\ReturnJson.pdb
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\KM485TT\source\repos\Asta.CustomWFA\ReturnJson\obj\Debug\ReturnJson.csproj.CopyComplete
